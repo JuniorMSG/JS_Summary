@@ -1,3 +1,3 @@
-# JS Feature
-# Hoisting : https://developer.mozilla.org/ko/docs/Glossary/Hoisting
+## JS Feature
+### Hoisting : https://developer.mozilla.org/ko/docs/Glossary/Hoisting
 
